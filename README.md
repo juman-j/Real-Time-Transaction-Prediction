@@ -16,7 +16,7 @@
 
     *   **BaseTrainer.py:** Basic code for model training.
     *   **RandomForestTrainer.py:** RandomForest realization.
-    *   **XGBoostTrainer.py:** RandomForest realization.
+    *   **XGBoostTrainer.py:** XGBoost realization.
 
 *   **data_models/**:
     *   **config_models.py:** dataclass for storing hyperparameters and other configuration values.
